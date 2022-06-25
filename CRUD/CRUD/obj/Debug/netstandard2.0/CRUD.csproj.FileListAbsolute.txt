@@ -1,0 +1,16 @@
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.deps.json
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.dll
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\bin\Debug\netstandard2.0\CRUD.pdb
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\View\EstudiantePages.xaml.g.cs
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.AssemblyInfo.cs
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.dll
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\refint\CRUD.dll
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\CRUD.pdb
+C:\Users\Ventura\source\repos\CRUD\CRUD\CRUD\obj\Debug\netstandard2.0\ref\CRUD.dll
